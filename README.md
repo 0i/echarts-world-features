@@ -1,7 +1,7 @@
 # echarts-world-features
 echarts world features
 
-## build world map file
+## build world map js file
 ```bash
 php -d memory_limit=1000M echarts.php
 ```
